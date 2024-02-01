@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Hologram2.ViewModels"
+             x:Class="Hologram2.MainPage">
+    <ContentPage.BindingContext>
+        <local:MainPageViewModel/>
+    </ContentPage.BindingContext>
+    <StackLayout>
+        <StackLayout HorizontalOptions="CenterAndExpand">
+            <Label Text="Select a video" TextColor="Black"/>
+            <Button Text="Pick" Command="{Binding PickFile}"/>
+            <Label Text="Recently Converted Hologram"/>
+            <Button Text="Watch Hologram" x:Name="Watch"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
+

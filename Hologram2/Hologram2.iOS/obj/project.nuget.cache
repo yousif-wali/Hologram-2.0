@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNHr5TVnepEQ5sEN8LsgqPtU3GBTyAM6DHbznHuQHxDoA+LLBgFF+T3N/rVt066TTOh3Osl5lFBmGPwZI4nggQ==",
+  "success": true,
+  "projectFilePath": "/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2.iOS/Hologram2.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/yousifwali/.nuget/packages/embedio/3.5.2/embedio.3.5.2.nupkg.sha512",
+    "/Users/yousifwali/.nuget/packages/sqlite-net-pcl/1.8.116/sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "/Users/yousifwali/.nuget/packages/sqlitepclraw.bundle_green/2.0.4/sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "/Users/yousifwali/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "/Users/yousifwali/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.4/sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "/Users/yousifwali/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/yousifwali/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/yousifwali/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/yousifwali/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/yousifwali/.nuget/packages/unosquare.swan.lite/3.1.0/unosquare.swan.lite.3.1.0.nupkg.sha512",
+    "/Users/yousifwali/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/yousifwali/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

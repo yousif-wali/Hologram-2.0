@@ -1,0 +1,16 @@
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/Hologram2.csproj.AssemblyReference.cache
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/Hologram2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/Hologram2.AssemblyInfoInputs.cache
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/Hologram2.AssemblyInfo.cs
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/Hologram2.csproj.CoreCompileInputs.cache
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/bin/Debug/netstandard2.0/Hologram2.deps.json
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/bin/Debug/netstandard2.0/Hologram2.dll
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/bin/Debug/netstandard2.0/ref/Hologram2.dll
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/bin/Debug/netstandard2.0/Hologram2.pdb
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/Hologram2.dll
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/refint/Hologram2.dll
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/Hologram2.pdb
+/Users/yousifwali/Desktop/Programming Languages/C#/Xamarin/Hologram2/Hologram2/Hologram2/obj/Debug/netstandard2.0/Watch.xaml.g.cs

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9373D1E5-6169-43E4-B201-6A8D34BA76FC}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Hologram2.Android PreferredExecutionTarget="Android.Pixel_3_API_30" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hologram2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CA535D94-1794-491B-8AF3-BD0ECBC6F3F0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3_API_30" />
+  <MultiItemStartupConfigurations />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/yousifwali/Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/d9a6e8710b37cd7f16cf52eff4f772556e57cc41</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hologram2/Hologram2/Watch.xaml.cs">
+    <Files>
+      <File FileName="Hologram2/Hologram2/Watch.xaml.cs" Line="8" Column="13" />
+      <File FileName="Hologram2/Hologram2/MainPage.xaml" Line="13" Column="53" />
+      <File FileName="Hologram2/Hologram2/MainPage.xaml.cs" Line="19" Column="18" />
+      <File FileName="Hologram2/Hologram2/App.xaml.cs" />
+      <File FileName="Hologram2/Hologram2.Android/CustomWebViewRenderer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
